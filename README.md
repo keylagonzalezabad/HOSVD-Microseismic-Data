@@ -16,3 +16,9 @@ Application of Higher Order Singular Value Decomposition (HOSVD) for a microseis
 ### Python module
 
 * scikit-tensor: https://pypi.org/project/scikit-tensor-py3/
+
+## Tutorial videos
+
+* https://www.youtube.com/watch?v=79AaVLAFaK4  (Tensor Decomposition (Tucker and HOSVD) with MATLAB example - Part 1)
+* https://www.youtube.com/watch?v=cvZN7Nt_rPo  (Tensor Decomposition (Tucker and HOSVD) with MATLAB example - Part 2)
+
